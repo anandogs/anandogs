@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anandogs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in 🏄
+- 🌱 I’m currently learning rust
+- 💞️ I’m looking to collaborate on rust, python, svelte 
 - 📫 Reach me on anandoghose@gmail.com
 
 <!---
